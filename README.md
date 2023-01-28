@@ -4,5 +4,7 @@ Shell script que genera un archivo con un listado de las instituciones públicas
 # How to use 
 
 ```
+git clone git@github.com:JassonCordones/listado_instituciones_rd.git
+cd listado_instituciones_rd
 sh ./script 
 ```
