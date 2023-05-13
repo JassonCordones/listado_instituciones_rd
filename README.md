@@ -6,5 +6,7 @@ Shell script que genera un archivo con un listado de las instituciones públicas
 ```
 git clone git@github.com:JassonCordones/listado_instituciones_rd.git
 cd listado_instituciones_rd
+chmod +x script.sh
 sh ./script 
 ```
+Open the instituciones.txt file with your favorite text editor.
