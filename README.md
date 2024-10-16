@@ -21,4 +21,4 @@ Set-ExecutionPolicy RemoteSigned
 ./script.ps1
 ```
 
-Open the instituciones.txt file with your favorite text editor.
+Se generará un archivo llamado instituciones.txt, el cual puedes visualizar en cualquier editor de texto. 
